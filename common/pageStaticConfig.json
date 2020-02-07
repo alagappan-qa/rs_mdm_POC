@@ -1,0 +1,19 @@
+{
+	"indexPage":
+	{
+	
+		"pageURL":"https://qa8rwtest.riversand.com/",
+		"pageTitle":"Riversand Platform",
+	"searchTextValid":"dress",
+	"searchTextValidSort":"summer",
+	"searchTextInvalid":"invalid",
+	"noResult":"0 results have been found.",
+	"cartEmpty":"Your shopping cart is empty.",
+	"sortValuePriceLow":"price:asc",
+	"createAccountError":"Invalid email address.",
+	"invalidEmailAddress":"emailwithoutaddress",
+	"email":"alagappan.annamalai@riversand.com",
+	"password":"Riversand@123",
+	"loginWithinvalidCreds":"Invalid password."
+	}
+}
